@@ -1,0 +1,5 @@
+model:
+  provider: custom
+  default: glm5.3-flash
+  base_url: https://api.nan.builders/v1
+  api_key_env: NAN_API_KEY
